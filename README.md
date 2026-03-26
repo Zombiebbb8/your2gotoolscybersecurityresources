@@ -1,3 +1,9 @@
+
+
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Certifications](https://img.shields.io/badge/CompTIA-Security%2B%20%7C%20Network%2B-red)
+![Author](https://img.shields.io/badge/Author-Gabriel%20Aladegbemi-informational)
+
 #Cybersecurity Resources
 
 A curated collection of cybersecurity tools, labs, frameworks, training, and references. Built for practitioners working in SOC operations, penetration testing, cloud security, and GRC. Not a dump of every link on the internet. Everything here is something I've used, studied, or vetted.
